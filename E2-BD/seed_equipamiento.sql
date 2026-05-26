@@ -39,7 +39,7 @@ BEGIN
     (casco_id,'Zeus','ZS-813','Integral','economica','ECE basico',45,90,'Mayor calidad que marcas chinas. Buena ventilacion.'),
     (casco_id,'Kontrol','Sport 950','Integral','economica','Transito EC',35,70,'Presencia en Ecuador y Colombia. Para uso diario economico.'),
     -- CHAQUETAS
-    (chaqueta_id,'Alpinestars','T-GP Plus Air','Textil respirante','alta','CE Nivel 2',300,600,'Premium. Clima caliente. Protecciones nivel 2.',),
+    (chaqueta_id,'Alpinestars','T-GP Plus Air','Textil respirante','alta','CE Nivel 2',300,600,'Premium. Clima caliente. Protecciones nivel 2.'),
     (chaqueta_id,'Dainese','Smart Jacket','3 en 1','alta','CE Nivel 2',400,800,'Muy versatil. Ideal para Sierra y Costa Ecuador.'),
     (chaqueta_id,'Rev''It','Sand 4 H2O','Textil impermeable','alta','CE Nivel 2',350,700,'Waterproof. Excelente para clima variable.'),
     (chaqueta_id,'Icon','Raiden DKR','Textil','media','CE Nivel 1',150,300,'Buena proteccion a precio accesible.'),
