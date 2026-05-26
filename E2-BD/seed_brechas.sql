@@ -1,0 +1,1 @@
+-- Brechas ya incluidas en seed_equipamiento.sql
